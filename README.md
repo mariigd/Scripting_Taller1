@@ -1,5 +1,5 @@
 # Scripting_Taller1
 
 ### Integrantes
-Elena Castaño Ochoa
-Mariana Gómez Duque
+- Elena Castaño Ochoa
+- Mariana Gómez Duque
