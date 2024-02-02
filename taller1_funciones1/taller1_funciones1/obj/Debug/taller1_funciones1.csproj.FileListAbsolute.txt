@@ -1,0 +1,8 @@
+C:\Users\maril\source\repos\taller1_funciones1\taller1_funciones1\bin\Debug\taller1_funciones1.exe.config
+C:\Users\maril\source\repos\taller1_funciones1\taller1_funciones1\bin\Debug\taller1_funciones1.exe
+C:\Users\maril\source\repos\taller1_funciones1\taller1_funciones1\bin\Debug\taller1_funciones1.pdb
+C:\Users\maril\source\repos\taller1_funciones1\taller1_funciones1\obj\Debug\taller1_funciones1.csproj.AssemblyReference.cache
+C:\Users\maril\source\repos\taller1_funciones1\taller1_funciones1\obj\Debug\taller1_funciones1.csproj.SuggestedBindingRedirects.cache
+C:\Users\maril\source\repos\taller1_funciones1\taller1_funciones1\obj\Debug\taller1_funciones1.csproj.CoreCompileInputs.cache
+C:\Users\maril\source\repos\taller1_funciones1\taller1_funciones1\obj\Debug\taller1_funciones1.exe
+C:\Users\maril\source\repos\taller1_funciones1\taller1_funciones1\obj\Debug\taller1_funciones1.pdb
